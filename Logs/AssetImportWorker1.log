@@ -1,0 +1,353 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.24f1 (79c78de19888) revision 7980941'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 8063 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.24f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/user/Desktop/cs222/Lab2_349
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+57170
+Successfully changed project path to: C:/Users/user/Desktop/cs222/Lab2_349
+C:/Users/user/Desktop/cs222/Lab2_349
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 56.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.24f1 (79c78de19888)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/Desktop/cs222/Lab2_349/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX130 (ID=0x174d)
+    Vendor:   
+    VRAM:     4055 MB
+    Driver:   30.0.14.9649
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56832
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002673 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 91.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.643 seconds
+Domain Reload Profiling:
+	ReloadAssembly (643ms)
+		BeginReloadAssembly (55ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (514ms)
+			LoadAssemblies (53ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (156ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (218ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (91ms)
+				BeforeProcessingInitializeOnLoad (14ms)
+				ProcessInitializeOnLoadAttributes (81ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005202 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 52.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.667 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1673ms)
+		BeginReloadAssembly (139ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (1475ms)
+			LoadAssemblies (91ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (302ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (913ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (52ms)
+				BeforeProcessingInitializeOnLoad (93ms)
+				ProcessInitializeOnLoadAttributes (179ms)
+				ProcessInitializeOnLoadMethodAttributes (578ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 1.02 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2949 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.0 MB.
+System memory in use after: 132.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3385.
+Total: 3.962200 ms (FindLiveObjects: 0.397600 ms CreateObjectMapping: 0.180600 ms MarkObjects: 3.300100 ms  DeleteObjects: 0.082800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/myShader/formRefraction.mat
+  artifactKey: Guid(25cae406298f33645bdc543aa620b6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/formRefraction.mat using Guid(25cae406298f33645bdc543aa620b6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6a9d34c7e79010dcfb97fc1c9ab6f45') in 0.320400 seconds 
+  Import took 0.326904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 235.155822 seconds.
+  path: Assets/myShader/waterMovement/waterMovement.mat
+  artifactKey: Guid(d3d87f00612c8b54abf3caa40917b5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/waterMovement/waterMovement.mat using Guid(d3d87f00612c8b54abf3caa40917b5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39fd9655878baf0cbb9c240f11b44619') in 0.028604 seconds 
+  Import took 0.035328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 130.071070 seconds.
+  path: Assets/myShader/water2colorsMovement/water2colorsMovement.mat
+  artifactKey: Guid(b89159437acbd0e47bbab808f787ab33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/water2colorsMovement/water2colorsMovement.mat using Guid(b89159437acbd0e47bbab808f787ab33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '050caaf942cc82e6ff9d47f4b0af8fb8') in 0.021179 seconds 
+  Import took 0.027442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.968491 seconds.
+  path: Assets/myShader/water2colors/water2colors.mat
+  artifactKey: Guid(3ed969bdefa2d3d40934b19fdd326a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/water2colors/water2colors.mat using Guid(3ed969bdefa2d3d40934b19fdd326a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12762b0dbe46268276698cd0127ecf6e') in 0.033153 seconds 
+  Import took 0.039085 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007515 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.934 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1935ms)
+		BeginReloadAssembly (237ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (20ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (72ms)
+		EndReloadAssembly (1587ms)
+			LoadAssemblies (193ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (649ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (83ms)
+			SetupLoadedEditorAssemblies (439ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (156ms)
+				ProcessInitializeOnLoadAttributes (252ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2835 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.8 MB.
+System memory in use after: 130.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3466.
+Total: 4.390200 ms (FindLiveObjects: 0.406400 ms CreateObjectMapping: 0.161100 ms MarkObjects: 3.797900 ms  DeleteObjects: 0.023200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1634.376233 seconds.
+  path: Assets/myShader/depthWater/deptWater.mat
+  artifactKey: Guid(0640e3166a9f3954db3d4deebacb751f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/depthWater/deptWater.mat using Guid(0640e3166a9f3954db3d4deebacb751f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77df7b0527dfe39f29ce8e851b925d35') in 0.724236 seconds 
+  Import took 0.731899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 574.444433 seconds.
+  path: Assets/myShader/New Material.mat
+  artifactKey: Guid(fe2d1e39c7ebda344a35f29c34004b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/New Material.mat using Guid(fe2d1e39c7ebda344a35f29c34004b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ed986225ddb3d37f191d290c334a372') in 0.050879 seconds 
+  Import took 0.057390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 234.414088 seconds.
+  path: Assets/myShader/formRefraction.shadersubgraph
+  artifactKey: Guid(cb66ad90cc6865e43b31087c641955e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/formRefraction.shadersubgraph using Guid(cb66ad90cc6865e43b31087c641955e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5d6129086ca19a18e50304eefa5e314') in 0.027151 seconds 
+  Import took 0.044569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 429.593408 seconds.
+  path: Assets/myShader/WaterAddAll.mat
+  artifactKey: Guid(ae5a2da2979ad8f4cb97460527cea351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/WaterAddAll.mat using Guid(ae5a2da2979ad8f4cb97460527cea351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cc5108d69448b6240785e11ac3e0408') in 0.056210 seconds 
+  Import took 0.066990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 200.469979 seconds.
+  path: Assets/myShader/formRefraction/formRefraction.mat
+  artifactKey: Guid(87af56b69d528e341baf9fa7823002f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/formRefraction/formRefraction.mat using Guid(87af56b69d528e341baf9fa7823002f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5648f64d036398f7d855c69648206854') in 0.014028 seconds 
+  Import took 0.021737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.480575 seconds.
+  path: Assets/myShader/movement/movement.shadersubgraph
+  artifactKey: Guid(3705ae0c3f742a543ba63178f0760022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/movement/movement.shadersubgraph using Guid(3705ae0c3f742a543ba63178f0760022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac756e2c76098d2bea11d326f16cc0d') in 0.007201 seconds 
+  Import took 0.014021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.180583 seconds.
+  path: Assets/myShader/waterMovement/waterMovement.shadersubgraph
+  artifactKey: Guid(e67cb26184d3d2c4d8700e964b399ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/waterMovement/waterMovement.shadersubgraph using Guid(e67cb26184d3d2c4d8700e964b399ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86bbe403e49ee30108495f8e5f8af69b') in 0.003727 seconds 
+  Import took 0.008785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.410012 seconds.
+  path: Assets/myShader/water2colors/water2colors.shadersubgraph
+  artifactKey: Guid(8a4d48c935dfbf244b4aae531397c7cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/water2colors/water2colors.shadersubgraph using Guid(8a4d48c935dfbf244b4aae531397c7cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4542e47d339705f2fdaa0ffca815c5e6') in 0.006879 seconds 
+  Import took 0.011415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.896344 seconds.
+  path: Assets/myShader/water2colorsMovement/water2colorsMovement.shadergraph
+  artifactKey: Guid(8574e1d9e702488459196e9e74f67259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/water2colorsMovement/water2colorsMovement.shadergraph using Guid(8574e1d9e702488459196e9e74f67259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b43de8067ce5469e567d6412032498') in 0.005211 seconds 
+  Import took 0.010731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.900876 seconds.
+  path: Assets/myShader/WaterAddAll.mat
+  artifactKey: Guid(ae5a2da2979ad8f4cb97460527cea351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/WaterAddAll.mat using Guid(ae5a2da2979ad8f4cb97460527cea351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4cf7879bac8a50d59fb500e570ea209') in 0.041432 seconds 
+  Import took 0.048605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 764.396726 seconds.
+  path: Assets/myShader/formRefraction.mat
+  artifactKey: Guid(25cae406298f33645bdc543aa620b6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/formRefraction.mat using Guid(25cae406298f33645bdc543aa620b6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21bc31a6fb2e7fca62381020844e53bc') in 0.047726 seconds 
+  Import took 0.065429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1358.424167 seconds.
+  path: Assets/myShader/depthWater/depthWater.shadersubgraph
+  artifactKey: Guid(61910f911c304054c9103e930c1aedb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myShader/depthWater/depthWater.shadersubgraph using Guid(61910f911c304054c9103e930c1aedb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f39cec369480a97dcf6c5d6d1d194f') in 0.008953 seconds 
+  Import took 0.014005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.802354 seconds.
+  path: Assets/myModel/sporty_granny@Angry.fbx
+  artifactKey: Guid(75cef1375d599a248b6defe467b81de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myModel/sporty_granny@Angry.fbx using Guid(75cef1375d599a248b6defe467b81de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff0e482d3bd8a68cf0904794688a0ea') in 2.485441 seconds 
+  Import took 2.496057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 207.353947 seconds.
+  path: Assets/myModel/sporty_granny@Angry.fbx
+  artifactKey: Guid(75cef1375d599a248b6defe467b81de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myModel/sporty_granny@Angry.fbx using Guid(75cef1375d599a248b6defe467b81de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4233c869c26434de632bdcc6968b1375') in 0.496277 seconds 
+  Import took 0.503442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.647288 seconds.
+  path: Assets/myModel/sporty_granny@Angry.fbx
+  artifactKey: Guid(75cef1375d599a248b6defe467b81de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myModel/sporty_granny@Angry.fbx using Guid(75cef1375d599a248b6defe467b81de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '699d45146f2753f1e2ea543a28224db8') in 0.117994 seconds 
+  Import took 0.124996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.865141 seconds.
+  path: Assets/myModel/sporty_granny@Angry.fbx
+  artifactKey: Guid(75cef1375d599a248b6defe467b81de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/myModel/sporty_granny@Angry.fbx using Guid(75cef1375d599a248b6defe467b81de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '280d0b31c56f2215b64be92e5fecec81') in 0.235775 seconds 
+  Import took 0.241928 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
